@@ -199,7 +199,7 @@ exclude:
   - _news
   - _bibliography
   - _pages/publications.md
-  #- _pages/repositories.md
+  - _pages/repositories.md
   #- _includes/repository/
 keep_files:
   - CNAME
